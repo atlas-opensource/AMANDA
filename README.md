@@ -33,3 +33,11 @@ Finally AMANDA analyzes large amounts of data in the context of Constitutional c
 laws prohibit driving an automobile past 20mph in a certain city. AMANDA can analyze information derived from city planning, Google Cars, maps, and other
 sources along with information provided by a vehichle's odometer or city radar program to determine that an individual is about to break the speed limit 
 in an area. AMANDA can then send a warning to the user telling them to slow down. 
+
+Footnotes
+--------
+1 AMANDA is designed to consume information (purchase) from DMZ (https://github.com/atlas-opensource/atlas-dmz) compliant networks and systems. 
+2. After AMANDA purchases information from the DMZ compliant network AMANDA asks human beings to help her code the information using Coding(d) (https://github.com/atlas-opensource/atlas-codingd)
+3. AMANDA is then written such that the data produced by the Coding team is used to train her supervised machine learning structures to analyze 
+large amounts of data in the way described above. 
+
