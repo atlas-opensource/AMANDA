@@ -36,6 +36,10 @@ laws prohibit driving an automobile past 20mph in a certain city. AMANDA can ana
 sources along with information provided by a vehichle's odometer or city radar program to determine that an individual is about to break the speed limit 
 in an area. AMANDA can then send a warning to the user telling them to slow down. 
 
+A higher level example shows that AMANDA can be used as a natural language processor applied by legislators to pending legislation. The natural language application in this example reads the contents of the pending legislation and then applies the constitutional constraints to the document to determine if the legislation is constitutional or not. It could be used to analyze the different institutional perspectives about any given legislation to determine which institutional and individual rights are implicated by the legislation and finally if any given right is violated by it.
+
+
+
 The primary benefit that AMANDA offers is the efficiency with which it can contextualize and process information in data analytics applications. The second main benefit that AMANDA offers is its ability to selectively consume and apply information such that the intrusive nature of data analytics and artificial intelligence is minimized through the application of social constraints as a common regression. Other big data analyzers, having no fundamental structures governing their their functioning currently tend to wildly over consume data, and chew up resources through uncontextualized "deep learning." 
 
 
